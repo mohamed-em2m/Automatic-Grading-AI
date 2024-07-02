@@ -13,11 +13,7 @@
 
 ## Model Description
 
-We pride to introudce you first Automatic Grading model in arabic 
-
-We are thrilled to introduce our graduation project, the EM2 model, designed for automated essay grading in both Arabic and English. 📝✨
-
-To develop this model, we first created a custom dataset for training. We adapted the QuAC and OpenOrca datasets to make them suitable for our automated essay grading application.
+We are proud to introduce the first automatic essay grading model in Arabic. Our graduation project, the EM2 model, is designed for automated essay grading in both Arabic and English. 📝✨zz
 ![Alt text](em0.png)
 Our model utilizes the following impressive models:
 
