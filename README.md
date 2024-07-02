@@ -12,7 +12,7 @@
 - Youssef sherif
 
 ## Model Description
-![Uploading em5-english.png…]()
+![em5-english](https://github.com/mohamed-em2m/auto-grading/em5-english.png)
 
 We are thrilled to introduce our graduation project, the EM2 model, designed for automated essay grading in both Arabic and English. 📝✨
 
