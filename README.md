@@ -1,15 +1,15 @@
 ## Team members:
-- Mohamed Emam
+- Mohamed Emam (https://www.linkedin.com/in/mohamed-emam-599970208/)
 
-- Abdelmonem Mansour
+- Abdelmonem Mansour(https://www.linkedin.com/in/abdelmonem-mansour-aa8b5114b/)
 
-- Mariem Ahmed
+- Mariem Ahmed (https://www.linkedin.com/in/mariem-ahmad-436375316/)
 
-- Mohamed Bahgat
+- Mohamed Bahgat (https://www.linkedin.com/in/mohammed-bahgat-20b96a244/)
 
-- Ehab AbdelAzim
+- Ehab AbdelAzim (https://www.linkedin.com/in/ehab-hegab-4bb621253)
 
-- Youssef sherif
+- Youssef sherif (https://www.linkedin.com/in/yousef-sherif-618569260?trk=contact-info)
 
 ## Model Description
 
