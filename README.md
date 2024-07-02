@@ -13,28 +13,34 @@
 
 ## Model Description
 
-We are proud to introduce the first automatic essay grading model in Arabic. Our graduation project, the EM2 model, is designed for automated essay grading in both Arabic and English. 📝✨zz
+🚀 We are thrilled to introduce the first automatic essay grading model in Arabic! 🚀
+
+Our graduation project, the EM2 model, is designed for automated essay grading in both Arabic and English. 📝✨
+🌟 Model Highlights 🌟
+
 ![Alt text](em0.png)
+
 Our model utilizes the following impressive models:
 
-- Mistral: 96%
-- LLaMA: 93%
-- FLAN-T5: 93%
-- BLOOMZ (Arabic): 86%
-- MT0 (Arabic): 84%
+    Mistral: 96%
+    LLaMA: 93%
+    FLAN-T5: 93%
+    BLOOMZ (Arabic): 86%
+    MT0 (Arabic): 84%
 
 You can try our models for auto-grading on Hugging Face! 🌐
 
 We then deployed these models for practical use. We are proud of our team's hard work and the potential impact of the EM2 model in the field of education. 🌟
+🔍 How It Works 🔍
 
-#MachineLearning #AI #Education #EssayGrading #GraduationProject
+The model takes three inputs:
 
+    The context (or perfect answer)
+    A question on the context
+    The student's answer
 
-## How It Works
-
-The model takes three inputs: the context (or perfect answer), a question on the context, and the student answer. The model then outputs the result.
-- Hugging Face :https://huggingface.co/mohamedemam/Em2-bloomz-7b
-- Repository: [https://github.com/mohamed-em2m/auto-grading](https://github.com/mohamed-em2m/auto-grading)
+- 🔗Hugging Face :https://huggingface.co/mohamedemam/Em2-bloomz-7b
+- 🔗Repository: [https://github.com/mohamed-em2m/auto-grading](https://github.com/mohamed-em2m/auto-grading)
 
 ### Direct Use
 
