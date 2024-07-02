@@ -1,10 +1,15 @@
 ## Team membmers:
-Mohamed Emam
-Abdelmonem Mansour
-Mariem Ahmed
-Mohamed Bahgat
-Ehab AbdelAzim
-Youssef sherif
+- Mohamed Emam
+
+- Abdelmonem Mansour
+
+- Mariem Ahmed
+
+- Mohamed Bahgat
+
+- Ehab AbdelAzim
+
+- Youssef sherif
 
 ## Model Description
 
