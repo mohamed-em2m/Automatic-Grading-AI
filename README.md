@@ -1,4 +1,4 @@
-![Screenshot from 2024-06-28 01-02-14](https://github.com/mohamed-em2m/auto-grading/assets/126331291/5785cb99-61de-4e71-9eb7-e3531636031f)## Team membmers:
+## Team membmers:
 - Mohamed Emam
 
 - Abdelmonem Mansour
@@ -10,9 +10,9 @@
 - Ehab AbdelAzim
 
 - Youssef sherif
-![Uploading Screenshot from 2024-06-28 01-02-14.png…]()
 
 ## Model Description
+![Uploading Screenshot from 2024-06-28 01-02-14.png…]()
 
 We are thrilled to introduce our graduation project, the EM2 model, designed for automated essay grading in both Arabic and English. 📝✨
 
