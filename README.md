@@ -1,4 +1,4 @@
-## Team membmers:
+## Team members:
 - Mohamed Emam
 
 - Abdelmonem Mansour
@@ -12,6 +12,7 @@
 - Youssef sherif
 
 ## Model Description
+
 We pride to introudce you first Automatic Grading model in arabic 
 
 We are thrilled to introduce our graduation project, the EM2 model, designed for automated essay grading in both Arabic and English. 📝✨
@@ -36,7 +37,7 @@ We then deployed these models for practical use. We are proud of our team's hard
 ## How It Works
 
 The model takes three inputs: the context (or perfect answer), a question on the context, and the student answer. The model then outputs the result.
-
+- Hugging Face :https://huggingface.co/mohamedemam/Em2-bloomz-7b
 - Repository: [https://github.com/mohamed-em2m/auto-grading](https://github.com/mohamed-em2m/auto-grading)
 
 ### Direct Use
