@@ -1,0 +1,3 @@
+[submodule "webApp/project"]
+	path = webApp/project
+	url = https://github.com/abdogad/WebApp
